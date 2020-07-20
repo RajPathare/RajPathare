@@ -1,6 +1,6 @@
 <h2> I'm Raj Pathare <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<img width = "45%" align="right" alt="GIF" height="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img width = "45%" align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **A little about me:**
 
@@ -18,8 +18,6 @@
 <a href="https://twitter.com/_rajpathare_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
-
-![github stats](https://github-readme-stats.vercel.app/api?username=RajPathare&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 **Tools and Technologies I work on:** 
 <p align="left">
