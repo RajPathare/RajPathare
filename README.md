@@ -1,6 +1,6 @@
 <h2> I'm Raj Pathare <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<img width = "45%" align="right" alt="GIF" height="350px" src="https://i.pinimg.com/originals/6d/5d/76/6d5d765d891750b7dde3b72a808a6c1b.gif" />
+<img width = "45%" align="right" alt="GIF" height="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **A little about me:**
 
