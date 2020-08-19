@@ -1,4 +1,4 @@
-<h2> I'm Raj Pathare <img src="https://pa1.narvii.com/6892/5995277cd80198e4a9712aec4fcee51aaed310d3r1-200-227_00.gif" width="100"></h2>
+<h2> I'm Raj Pathare </h2>
 
 <img width = "45%" align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
