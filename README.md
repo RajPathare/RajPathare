@@ -1,6 +1,6 @@
 <h2> I'm Raj Pathare </h2>
 
-<img width = "45%" align="right" alt="gitstats" height="400px" src="https://github-readme-stats.vercel.app/api?username=RajPathare&show_icons=true&theme=tokyonight" />
+<img width = "45%" align="right" alt="gitstats" height="300px" src="https://github-readme-stats.vercel.app/api?username=RajPathare&show_icons=true&theme=tokyonight" />
 
 **A little about me:**
 
