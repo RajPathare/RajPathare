@@ -6,7 +6,7 @@
 **A little about me:**
 
 - 👨🏻‍💻 I love working on different web projects.
-- 🌱 I’m currently learning Ansible and Python.
+- 🌱 I’m currently learning Ansible and React-Native.
 - 💼 Associate Software Developer (DevOps) at Reliance Jio.
 - 📫 You can mail me here - rajgpathare@gmail.com.
 - 👀 If you wanna know more about me, check my personal website - [rajpathare.com](https://rajpathare.com/about/)
