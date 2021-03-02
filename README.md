@@ -1,7 +1,7 @@
 <h2> I'm Raj Pathare </h2>
 
 <div align="left">
-<img width = "49%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=RajPathare&show_icons=true&theme=tokyonight" />
+<img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=RajPathare&show_icons=true&theme=tokyonight" />
 
 <img width = "47%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPathare&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </div>
