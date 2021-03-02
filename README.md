@@ -6,9 +6,6 @@
 <img width = "47%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPathare&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </div>
 
-
-**A little about me:**
-
 - 👨🏻‍💻 I love working on different web projects.
 - 🌱 I’m currently learning Ansible and React-Native.
 - 💼 Associate Software Developer (DevOps) at Reliance Jio.
