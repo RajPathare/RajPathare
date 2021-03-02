@@ -7,7 +7,9 @@
 </div>
 
 <hr>
+
 **A little about me:**
+
 
 - 👨🏻‍💻 I love working on different web projects.
 - 🌱 I’m currently learning Ansible and React-Native.
