@@ -3,7 +3,7 @@
 <div align="left">
 <img width = "48%" alt="gitstats" src="https://github-readme-stats.vercel.app/api?username=RajPathare&show_icons=true&theme=tokyonight" />
 
-<img width = "44%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPathare&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+<img width = "40%" alt="gitstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajPathare&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
 </div>
 
 <hr>
