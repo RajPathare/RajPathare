@@ -12,7 +12,7 @@
 
 
 - 👨🏻‍💻 I love working on different web projects.
-- 🌱 I’m currently learning Ansible and React-Native.
+- 🤖 Currently exploring AI and its real-world use cases.
 - 💼 Software Engineer (DevOps) at IDFC FIRST Bank.
 - 📫 You can mail me here - rajgpathare@gmail.com.
 - 👀 If you wanna know more about me, check my personal website - [rajpathare.com](https://rajpathare.com/about/)
